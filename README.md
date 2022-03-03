@@ -1,4 +1,6 @@
-## How to reproduce the problem
+## Tests prove the problem
+
+## How to reproduce the problem in browser
 
 - In a browser (I used Chrome v98), open http://localhost:8080/real/event once. 
 - Then open console and paste the script below - this open EventSource to /real/events
